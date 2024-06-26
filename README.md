@@ -66,6 +66,7 @@ I'm a software engineer with a keen interest in AI and DevOps. I strive to creat
 
 ### Others
 [<img height="32" width="32" src="https://cdn.simpleicons.org/axios" />](https://axios-http.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/jaeger" />](https://www.jaegertracing.io/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />](https://react-hook-form.com/)
 
 
