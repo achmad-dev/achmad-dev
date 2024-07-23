@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a software engineer with a keen interest in AI and DevOps. I strive to create impactful projects that make a positive difference in society.
+I'm a software engineer with a keen interest in Backend Development, AI and DevOps. I strive to create impactful projects that make a positive difference in society.
 
 
 ## Tech Stacks
