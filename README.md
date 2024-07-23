@@ -77,9 +77,11 @@ I am passionate about leveraging technology to solve real-world problems and con
 
 Feel free to explore my repositories and projects, and don't hesitate to reach out if you'd like to collaborate or discuss ideas!
 
+
+
 ### Connect with me on:
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/achmad-alfazari-81a491235/)
-
+[<img height="32" width="32" src="https://cdn.simpleicons.org/leetcode" />](https://leetcode.com/u/yaquta/)
 
 Thanks for visiting!
