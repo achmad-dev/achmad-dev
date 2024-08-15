@@ -2,7 +2,6 @@
 
 I'm a software engineer with a keen interest in Backend Development, AI and DevOps. I strive to create impactful projects that make a positive difference in society.
 
-
 ## Tech Stacks
 
 ### Languages and frameworks
@@ -59,27 +58,19 @@ I'm a software engineer with a keen interest in Backend Development, AI and DevO
 [<img height="32" width="32" src="https://cdn.simpleicons.org/github" />](https://github.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" />](https://about.gitlab.com/)
 
-
 ### Queue
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/rabbitmq" />](https://www.rabbitmq.com/)
 
 ### Others
+
 [<img height="32" width="32" src="https://cdn.simpleicons.org/axios" />](https://axios-http.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/jaeger" />](https://www.jaegertracing.io/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />](https://react-hook-form.com/)
 
-
 </details>
 
-## About Me
-I am passionate about leveraging technology to solve real-world problems and contribute to the betterment of society. Whether it's through developing innovative features, optimizing existing systems, or automating processes, I am dedicated to making a positive impact.
-
-Feel free to explore my repositories and projects, and don't hesitate to reach out if you'd like to collaborate or discuss ideas!
-
-
-
-### Connect with me on:
+### Connect with me on
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/achmad-alfazari-81a491235/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/leetcode" />](https://leetcode.com/u/yaquta/)
