@@ -8,6 +8,6 @@ I started as a frontend intern, working with React.js, MySQL, and Express, contr
 ### Connect with me on
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/achmad-alfazari-81a491235/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/leetcode" />](https://leetcode.com/u/maangeak/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/leetcode" />](https://leetcode.com/u/yaquta/)
 
 Thanks for visiting!
